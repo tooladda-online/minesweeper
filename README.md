@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💣 Minesweeper
+# 🎮 Minesweeper
 
 ### Use Minesweeper free on ToolAdda — quick, accurate, and browser-based.
 
